@@ -2,6 +2,13 @@
   --background: #1a1b26;
   --foreground: #a9b1d6;
   --border: #bb9af7;
+  --link: #2ac3de;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 body {
@@ -11,15 +18,13 @@ body {
   max-width: 768px;
   border: 2px solid var(--border);
   box-sizing: border-box;
-
   font-family: sans-serif;
   line-height: 1.5;
 }
 
 header {
-  border-bottom: 1px solid #222;
-  margin-bottom: 1rem;
   border-bottom: 2px solid var(--border);
+  margin: 0;
 }
 
 header h1 {
@@ -30,8 +35,9 @@ header h1 {
 }
 
 footer {
-  border-top: 1px solid #222;
-  margin-top: 1rem;
+  border-top: 2px solid var(--border);
+  text-align: center;
+  padding: 32px;
 }
 
 a {
@@ -55,5 +61,31 @@ nav ul li {
 
 nav ul li:last-child {
   border-right: 0;
-  /*border-left: 2px solid var(--border);*/
+}
+
+main {
+  padding: 32px;
+}
+
+main h1,
+h2,
+p,
+ul {
+  padding-bottom: 8px;
+}
+
+ul ul {
+  padding-bottom: 0px;
+}
+
+p:last-child {
+  padding-bottom: 0px;
+}
+
+a {
+  color: var(--link);
+}
+
+main ul {
+  margin-left: 16px;
 }
