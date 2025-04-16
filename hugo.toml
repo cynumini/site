@@ -1,7 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = "Cynu Mini's site"
-theme = 'cynumini'
 
 [[menus.main]]
 name = 'Home'
