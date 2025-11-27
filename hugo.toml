@@ -1,6 +1,7 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
+baseURL = "https://cynumini.neocities.org/"
+languageCode = "en-us"
 title = "Cynu Mini's site"
+theme = "cm"
 
 [[menus.main]]
 name = 'Home'
@@ -8,16 +9,17 @@ pageRef = '/'
 weight = 10
 
 [[menus.main]]
-name = 'Projects'
-pageRef = '/projects'
+name = 'Posts'
+pageRef = '/posts'
 weight = 20
 
 [[menus.main]]
-name = 'Posts'
-pageRef = '/posts'
-weight = 30
+name = 'To-do'
+pageRef = '/todo'
+weight = 40
 
 [[menus.main]]
 name = 'Tags'
 pageRef = '/tags'
-weight = 40
+weight = 30
+

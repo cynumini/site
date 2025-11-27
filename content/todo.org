@@ -1,0 +1,8 @@
+#+TITLE: To-do
+#+DATE: 2025-11-27T22:36:00+02:00
+#+DRAFT: false
+
+* TODO Add a new journal entry
+SCHEDULED: <2025-12-04 木 ++1w>
+* TODO Collect information for day
+SCHEDULED: <2025-11-27 木 .+1d>

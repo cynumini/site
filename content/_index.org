@@ -1,0 +1,14 @@
+#+TITLE: Home
+#+DATE: 2025-11-27T20:34:48+02:00
+#+DRAFT: false
+
+This is my third attempt to start posting here. But this time, I will
+actually do it for real! My current idea for this site is to make it
+an online journal, where I will write about stuff I'm doing and what I
+learned from it. Probably I will accumulate my insights, ideas, small
+reviews, and progress over the week and post it here. Also, I want to
+make posts about things that interest me, to use these posts as useful
+information for me in the future (for example it's can be some kind of
+cheat sheet). Another thing I want to try is creating something like
+handmade MAL, where I decide entirely how it looks and works. Maybe I
+can do something similar for games as well.
